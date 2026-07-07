@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 420" width="560" height="420">
+  <rect width="560" height="420" fill="#e4dcc9"/>
+  <rect x="16" y="16" width="528" height="388" fill="none" stroke="#9c8f6f" stroke-width="2" stroke-dasharray="10 8"/>
+  <g fill="none" stroke="#8a7c5c" stroke-width="3">
+    <rect x="200" y="150" width="160" height="120" rx="4"/>
+    <circle cx="240" cy="185" r="14"/>
+    <path d="M200 250 L250 200 L300 235 L360 180 L360 270 L200 270 Z"/>
+  </g>
+  <text x="280" y="330" font-family="Georgia, serif" font-size="20" fill="#6b5f45" text-anchor="middle">Imagem 1 — Ensino e Transmissão</text>
+  <text x="280" y="358" font-family="Arial, sans-serif" font-size="13" fill="#8a7c5c" text-anchor="middle">Substitua por images/ensino-topo.jpg</text>
+</svg>

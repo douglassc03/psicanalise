@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 720" width="600" height="720">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e4dcc9"/>
+      <stop offset="100%" stop-color="#cfc3a8"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="720" fill="url(#bg)"/>
+  <rect x="18" y="18" width="564" height="684" fill="none" stroke="#9c8f6f" stroke-width="2" stroke-dasharray="10 8"/>
+  <g fill="#8a7c5c">
+    <circle cx="300" cy="290" r="70" fill="none" stroke="#8a7c5c" stroke-width="3"/>
+    <path d="M190 470 Q300 370 410 470 L410 500 L190 500 Z" fill="none" stroke="#8a7c5c" stroke-width="3"/>
+  </g>
+  <text x="300" y="580" font-family="Georgia, serif" font-size="24" fill="#6b5f45" text-anchor="middle">Foto da Larissa</text>
+  <text x="300" y="612" font-family="Arial, sans-serif" font-size="15" fill="#8a7c5c" text-anchor="middle">Substitua por images/foto-larissa.jpg</text>
+</svg>
