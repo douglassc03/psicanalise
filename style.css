@@ -601,3 +601,9 @@ footer {
   object-fit: cover;
   display: block;
 }
+
+.imagem-box--pequena {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
